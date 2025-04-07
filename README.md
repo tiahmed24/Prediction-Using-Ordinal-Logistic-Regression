@@ -1,1 +1,3 @@
 # Prediction-Using-Ordinal-Logistic-Regression
+
+This project explores the use of Ordinal Logistic Regression to predict salary brackets for data science professionals using the 2022 Kaggle Machine Learning & Data Science Survey. The focus is on ordinal classification, with a pipeline that includes data cleaning, feature engineering, and exploratory data analysis (EDA) to uncover meaningful patterns in the survey data. Key steps included transforming categorical variables, ranking features using mutual information, and tuning model hyperparameters like regularization strength and penalty types. The model was evaluated using 10-fold cross-validation and Mean Absolute Error (MAE) to better understand the predictive performance across salary levels.
